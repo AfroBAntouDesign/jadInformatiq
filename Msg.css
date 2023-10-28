@@ -1,0 +1,25 @@
+.AfroBantouMessage h2{
+    font-size: 5rem;
+    text-align: center;
+    align-items: center;
+}
+
+.AfroBantouMessage {
+    align-items: center;
+   
+}
+
+.AfroBantouMessage .blk{
+    
+    text-align: center;
+   width: 20rem;
+   
+}
+@media screen and (max-width: 600px){
+    .AfroBantouMessage{
+        font-size: 2rem;
+        
+        
+    }
+
+}
